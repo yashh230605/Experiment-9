@@ -58,3 +58,8 @@ int main()
 }
     
 ```
+**Conclusion:** <br>
+&#8594; We learnt about pointers in C++. <br>
+&#8594; We learnt the use case of pointers in C++. <br>
+*******
+<br>
