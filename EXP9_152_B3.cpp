@@ -42,3 +42,27 @@ int main()
         cout<<*(c+k)<<endl;
     }
 }
+
+//Output
+Enter a number: 3
+Enter another number: 4
+Memory location of first number : 0x7fff81294a44
+Memory location of first number : 0x7fff81294a44
+First number using dereferencing : 3
+First number : 3
+Memory location of first number : 0x7fff81294a40
+Memory location of first number : 0x7fff81294a40
+Second number : 4
+Second number : 4
+Sum of two numbers: 7
+Incremented memory: 0x7fff81294a48
+Incremented memory: 0x7fff81294a4c
+Incremented memory: 0x7fff81294a50
+3
+Array as a pointer: 1
+Array pointer with iteration: 
+1
+2
+3
+4
+5
